@@ -1,5 +1,3 @@
-from os import read
-
 def find_marker(input, size):
     for i in range(0, len(input)):
         if len(list(set(input[i:i + size]))) == size:

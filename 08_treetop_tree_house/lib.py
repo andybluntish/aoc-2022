@@ -1,4 +1,3 @@
-from os import read
 from math import prod
 
 def map_trees(data, x, y):

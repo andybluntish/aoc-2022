@@ -1,5 +1,3 @@
-from os import read
-
 def parse_file(input_path):
     stacks = []
     moves = []
